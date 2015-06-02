@@ -41,3 +41,5 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/TGES_Methane/node_modules
+/TGES_Methane/public/javascripts/jquery-ui-1.11.4.custom
